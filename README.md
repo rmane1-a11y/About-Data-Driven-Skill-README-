@@ -164,7 +164,7 @@ After running the analysis, the script will automatically generate two new files
 I am always looking to collaborate on data-driven projects.
 * **Email:**[rohitmane12@outlook.com]
 * **LinkedIn:** [https://www.linkedin.com/in/rohitrajarammane/]
-* **Portfolio:** [Optional Link]
+* **Portfolio:** [https://github.com/rmane1-a11y/About-Data-Driven-Skill-README-/issues/1#issue-3914503237]
 
 ---
 #     ** README.MD 
